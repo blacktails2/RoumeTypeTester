@@ -7,7 +7,7 @@
     "node": "^13.8.0",
     "npm": "^6.13.7",
     "rebuild": "^0.1.2",
-    "surge": "^0.20.1"
+    "surge": "^0.20.5"
   },
   "devDependencies": {
     "browser-sync": "^2.24.5",
